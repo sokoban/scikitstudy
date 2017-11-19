@@ -1,0 +1,379 @@
+[W 10:21:47.987 NotebookApp] Unrecognized JSON config file version, assuming version 1
+[I 10:21:48.488 NotebookApp] Serving notebooks from local directory: /home/sokoban/jupyter
+[I 10:21:48.488 NotebookApp] 0 active kernels 
+[I 10:21:48.488 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:9999/
+[I 10:21:48.488 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 10:22:04.196 NotebookApp] 302 GET / (122.35.243.225) 1.28ms
+[I 10:22:26.228 NotebookApp] Kernel started: c2289900-0bac-44fa-9c04-139db52e57f1
+[I 10:22:26.270 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/overfitting_underfitting_cartoon.png (122.35.243.225) 1.67ms
+[I 10:22:26.326 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/classifier_comparison.png (122.35.243.225) 1.61ms
+[I 10:22:27.758 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[W 10:22:54.128 NotebookApp] Notebook introduction_to_ml_with_python/02-supervised-learning_org.ipynb is not trusted
+[I 10:23:02.568 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/overfitting_underfitting_cartoon.png (122.35.243.225) 1.71ms
+[I 10:23:10.126 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/classifier_comparison.png (122.35.243.225) 1.54ms
+[I 10:23:10.547 NotebookApp] Kernel started: d2cf92a7-b327-42d8-8f82-797edba00646
+[I 10:23:12.036 NotebookApp] Adapting to protocol v5.1 for kernel d2cf92a7-b327-42d8-8f82-797edba00646
+Fontconfig error: Cannot load default config file
+Fontconfig error: Cannot load default config file
+Fontconfig error: Cannot load default config file
+Fontconfig error: Cannot load default config file
+[I 10:24:34.564 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 10:25:28.632 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning_org.ipynb
+[I 10:29:15.125 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning_org.ipynb
+[W 10:34:11.168 NotebookApp] SSL Error on 10 ('66.111.57.186', 41368): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[I 10:38:29.927 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+Fontconfig error: Cannot load default config file
+Fontconfig error: Cannot load default config file
+Fontconfig error: Cannot load default config file
+Fontconfig error: Cannot load default config file
+[I 10:40:32.669 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 10:42:36.866 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 10:56:03.809 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 11:00:05.777 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 11:07:47.649 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[W 14:08:20.888 NotebookApp] SSL Error on 10 ('218.5.79.15', 54018): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 14:43:32.293 NotebookApp] SSL Error on 10 ('223.105.4.250', 22852): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 19:01:01.854 NotebookApp] SSL Error on 10 ('218.5.79.15', 59207): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 00:16:51.226 NotebookApp] SSL Error on 10 ('218.5.79.15', 57096): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[I 09:00:31.862 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 09:07:52.834 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 09:15:11.703 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 09:22:32.235 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 09:30:01.922 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 09:37:12.174 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 09:59:11.683 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 10:06:33.077 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 10:21:20.463 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 11:49:13.835 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 11:54:14.117 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 12:03:52.029 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 12:25:51.554 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 12:33:10.532 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[W 13:22:12.037 NotebookApp] WebSocket ping timeout after 119933 ms.
+[W 13:22:27.761 NotebookApp] WebSocket ping timeout after 119989 ms.
+[W 21:48:41.755 NotebookApp] 404 GET /api/kernels/98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc/channels?session_id=1E9DF474B7FA461691A25CD5D7E01E75 (211.56.96.55): Kernel does not exist: 98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc
+[W 21:48:41.789 NotebookApp] 404 GET /api/kernels/98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc/channels?session_id=1E9DF474B7FA461691A25CD5D7E01E75 (211.56.96.55) 41.65ms referer=None
+[W 21:48:43.879 NotebookApp] 404 GET /api/kernels/98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc/channels?session_id=1E9DF474B7FA461691A25CD5D7E01E75 (211.56.96.55): Kernel does not exist: 98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc
+[W 21:48:43.881 NotebookApp] 404 GET /api/kernels/98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc/channels?session_id=1E9DF474B7FA461691A25CD5D7E01E75 (211.56.96.55) 10.04ms referer=None
+[W 21:48:47.941 NotebookApp] 404 GET /api/kernels/98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc/channels?session_id=1E9DF474B7FA461691A25CD5D7E01E75 (211.56.96.55): Kernel does not exist: 98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc
+[W 21:48:47.944 NotebookApp] 404 GET /api/kernels/98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc/channels?session_id=1E9DF474B7FA461691A25CD5D7E01E75 (211.56.96.55) 10.43ms referer=None
+[W 21:48:56.002 NotebookApp] 404 GET /api/kernels/98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc/channels?session_id=1E9DF474B7FA461691A25CD5D7E01E75 (211.56.96.55): Kernel does not exist: 98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc
+[W 21:48:56.004 NotebookApp] 404 GET /api/kernels/98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc/channels?session_id=1E9DF474B7FA461691A25CD5D7E01E75 (211.56.96.55) 9.98ms referer=None
+[W 21:49:12.068 NotebookApp] 404 GET /api/kernels/98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc/channels?session_id=1E9DF474B7FA461691A25CD5D7E01E75 (211.56.96.55): Kernel does not exist: 98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc
+[W 21:49:12.070 NotebookApp] 404 GET /api/kernels/98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc/channels?session_id=1E9DF474B7FA461691A25CD5D7E01E75 (211.56.96.55) 10.10ms referer=None
+[W 21:49:44.133 NotebookApp] 404 GET /api/kernels/98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc/channels?session_id=1E9DF474B7FA461691A25CD5D7E01E75 (211.56.96.55): Kernel does not exist: 98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc
+[W 21:49:44.135 NotebookApp] 404 GET /api/kernels/98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc/channels?session_id=1E9DF474B7FA461691A25CD5D7E01E75 (211.56.96.55) 10.61ms referer=None
+[W 21:50:48.215 NotebookApp] 404 GET /api/kernels/98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc/channels?session_id=1E9DF474B7FA461691A25CD5D7E01E75 (211.56.96.55): Kernel does not exist: 98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc
+[W 21:50:48.217 NotebookApp] 404 GET /api/kernels/98c5ec51-b97c-4a78-9bd2-0b3fc9ec81fc/channels?session_id=1E9DF474B7FA461691A25CD5D7E01E75 (211.56.96.55) 10.03ms referer=None
+[I 00:13:15.276 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/overfitting_underfitting_cartoon.png (211.56.96.55) 1.76ms
+[I 00:13:15.284 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/classifier_comparison.png (211.56.96.55) 1.53ms
+[I 00:13:15.587 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[I 00:15:27.208 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[W 00:19:15.589 NotebookApp] WebSocket ping timeout after 119904 ms.
+[I 00:34:06.538 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[I 00:59:33.574 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 01:08:53.424 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 01:11:14.197 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 01:13:34.149 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[W 01:30:06.540 NotebookApp] WebSocket ping timeout after 119961 ms.
+[I 01:51:13.324 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[W 02:57:13.326 NotebookApp] WebSocket ping timeout after 119978 ms.
+[I 02:58:21.981 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[W 03:05:51.984 NotebookApp] WebSocket ping timeout after 119980 ms.
+[I 03:17:13.830 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[W 12:41:04.177 NotebookApp] SSL Error on 10 ('66.111.57.185', 41186): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 15:22:59.263 NotebookApp] SSL Error on 10 ('139.159.236.178', 56875): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[I 00:37:19.087 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/overfitting_underfitting_cartoon.png (211.56.96.55) 1.64ms
+[I 00:37:19.141 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/classifier_comparison.png (211.56.96.55) 1.51ms
+[I 00:37:22.093 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[I 00:37:26.946 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/03-face_decomposition.png (211.56.96.55) 1.60ms
+[I 00:37:26.974 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/api_table.png (211.56.96.55) 1.54ms
+[I 00:37:27.085 NotebookApp] Kernel started: 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 00:37:30.631 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 00:39:28.713 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 00:39:30.494 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 00:41:28.028 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 00:43:34.230 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 00:45:34.884 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 00:47:42.596 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 00:51:26.341 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[W 01:02:00.632 NotebookApp] WebSocket ping timeout after 119995 ms.
+[W 01:02:22.095 NotebookApp] WebSocket ping timeout after 119995 ms.
+[I 01:19:22.261 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 01:19:22.389 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[W 01:40:52.263 NotebookApp] WebSocket ping timeout after 119965 ms.
+[W 01:40:52.390 NotebookApp] WebSocket ping timeout after 119995 ms.
+[I 01:53:30.106 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[I 01:53:30.336 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 02:56:00.107 NotebookApp] WebSocket ping timeout after 119995 ms.
+[W 02:56:00.337 NotebookApp] WebSocket ping timeout after 119985 ms.
+[I 02:57:11.334 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[I 02:57:11.675 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 03:03:11.335 NotebookApp] WebSocket ping timeout after 119995 ms.
+[W 03:03:11.676 NotebookApp] WebSocket ping timeout after 119973 ms.
+[I 07:14:39.688 NotebookApp] Adapting to protocol v5.1 for kernel d2cf92a7-b327-42d8-8f82-797edba00646
+[I 07:14:41.060 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[W 08:51:09.689 NotebookApp] WebSocket ping timeout after 119576 ms.
+[W 08:51:11.060 NotebookApp] WebSocket ping timeout after 119497 ms.
+[I 04:46:57.317 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[I 04:46:57.427 NotebookApp] Adapting to protocol v5.1 for kernel d2cf92a7-b327-42d8-8f82-797edba00646
+[W 04:57:44.163 NotebookApp] SSL Error on 10 ('218.2.0.29', 1701): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 05:02:34.472 NotebookApp] SSL Error on 10 ('60.12.119.233', 60675): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 09:12:57.318 NotebookApp] WebSocket ping timeout after 119908 ms.
+[W 09:12:57.428 NotebookApp] WebSocket ping timeout after 119971 ms.
+[I 09:15:31.480 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[I 09:15:31.791 NotebookApp] Adapting to protocol v5.1 for kernel d2cf92a7-b327-42d8-8f82-797edba00646
+[W 19:57:28.902 NotebookApp] SSL Error on 48 ('202.61.84.196', 58345): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 22:21:31.481 NotebookApp] WebSocket ping timeout after 119821 ms.
+[W 22:21:31.791 NotebookApp] WebSocket ping timeout after 119988 ms.
+[I 03:09:46.316 NotebookApp] Adapting to protocol v5.1 for kernel d2cf92a7-b327-42d8-8f82-797edba00646
+[I 03:09:46.417 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[I 07:29:48.751 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/03-face_decomposition.png (122.35.243.225) 1.77ms
+[I 07:29:55.278 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/api_table.png (122.35.243.225) 1.55ms
+[I 07:29:55.987 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 07:44:56.943 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 07:45:03.565 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 07:45:24.249 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 07:45:35.180 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 07:45:39.811 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 07:45:52.031 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 07:46:00.945 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 09:42:07.786 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/overfitting_underfitting_cartoon.png (122.35.243.225) 1.71ms
+[I 09:42:15.724 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/classifier_comparison.png (122.35.243.225) 1.70ms
+[I 09:42:16.801 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[I 09:45:02.668 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 09:54:10.895 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 09:56:57.372 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 10:16:45.759 NotebookApp] Uploading file to /introduction_to_ml_with_python/03-unsupervised-learning_org.ipynb
+[W 10:16:45.788 NotebookApp] Saving untrusted notebook introduction_to_ml_with_python/03-unsupervised-learning_org.ipynb
+[I 10:17:26.156 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning_org.ipynb
+[W 10:17:26.168 NotebookApp] Saving untrusted notebook introduction_to_ml_with_python/03-unsupervised-learning_org.ipynb
+[W 10:18:31.052 NotebookApp] Notebook introduction_to_ml_with_python/03-unsupervised-learning_org.ipynb is not trusted
+[I 10:18:59.306 NotebookApp] Kernel started: cc68a910-1d1b-4045-b57e-3e9d4300f13d
+[I 10:19:04.381 NotebookApp] Adapting to protocol v5.1 for kernel cc68a910-1d1b-4045-b57e-3e9d4300f13d
+[I 10:21:24.964 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning_org.ipynb
+[W 10:21:24.971 NotebookApp] Saving untrusted notebook introduction_to_ml_with_python/03-unsupervised-learning_org.ipynb
+[W 10:58:34.395 NotebookApp] WebSocket ping timeout after 119907 ms.
+[W 10:58:46.419 NotebookApp] WebSocket ping timeout after 119947 ms.
+[W 10:58:46.802 NotebookApp] WebSocket ping timeout after 119729 ms.
+[W 10:58:55.988 NotebookApp] WebSocket ping timeout after 119701 ms.
+[W 22:55:41.482 NotebookApp] SSL Error on 10 ('223.105.4.250', 14854): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[I 00:59:29.015 NotebookApp] 302 GET / (211.56.96.55) 0.75ms
+[I 00:59:47.466 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/03-face_decomposition.png (211.56.96.55) 1.50ms
+[I 00:59:47.637 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/api_table.png (211.56.96.55) 1.47ms
+[I 00:59:47.795 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 01:01:26.254 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[W 01:01:34.579 NotebookApp] 500 GET /nbconvert/pdf/introduction_to_ml_with_python/03-unsupervised-learning.ipynb?download=true (211.56.96.55): nbconvert failed: Pandoc wasn't found.
+    Please check that pandoc is installed:
+    http://johnmacfarlane.net/pandoc/installing.html
+[E 01:01:34.615 NotebookApp] {
+      "Accept-Encoding": "gzip, deflate, br",
+      "Host": "sokoban.co.kr:9999",
+      "Referer": "https://sokoban.co.kr:9999/notebooks/introduction_to_ml_with_python/03-unsupervised-learning.ipynb",
+      "Upgrade-Insecure-Requests": "1",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+      "Accept-Language": "ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36",
+      "Cookie": "username-sokoban-co-kr-9999=2|1:0|10:1503668739|27:username-sokoban-co-kr-9999|48:MWE3M2IyZTctY2NjNi00NzNlLTk3NmQtNmI3ZGM1YTg1NzBm|c24f012ea474d03883ea7de2dd6cb3b562f8192160f6f8bf82e2c0f69d0e8c5c",
+      "Connection": "keep-alive"
+    }
+[E 01:01:34.615 NotebookApp] 500 GET /nbconvert/pdf/introduction_to_ml_with_python/03-unsupervised-learning.ipynb?download=true (211.56.96.55) 4753.07ms referer=https://sokoban.co.kr:9999/notebooks/introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[W 01:42:17.796 NotebookApp] WebSocket ping timeout after 119978 ms.
+[I 02:04:04.355 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 03:29:04.357 NotebookApp] WebSocket ping timeout after 119995 ms.
+[I 03:54:55.238 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 04:35:55.240 NotebookApp] WebSocket ping timeout after 119973 ms.
+[I 04:58:19.159 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 06:04:19.160 NotebookApp] WebSocket ping timeout after 119978 ms.
+[I 06:52:23.850 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 07:34:23.851 NotebookApp] WebSocket ping timeout after 119995 ms.
+[I 10:19:56.854 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 10:19:58.114 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[I 10:20:01.446 NotebookApp] Adapting to protocol v5.1 for kernel cc68a910-1d1b-4045-b57e-3e9d4300f13d
+[I 10:20:02.210 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[I 11:24:33.948 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 11:27:24.340 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 11:30:45.121 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[I 11:32:57.208 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 11:37:18.072 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 11:46:15.973 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 12:31:54.105 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 12:41:13.842 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[W 13:14:15.128 NotebookApp] WebSocket ping timeout after 119876 ms.
+[W 13:14:26.856 NotebookApp] WebSocket ping timeout after 119936 ms.
+[W 13:14:31.448 NotebookApp] WebSocket ping timeout after 119892 ms.
+[W 13:14:32.211 NotebookApp] WebSocket ping timeout after 119761 ms.
+[W 13:14:33.954 NotebookApp] WebSocket ping timeout after 119968 ms.
+[I 21:48:13.227 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 22:17:13.228 NotebookApp] WebSocket ping timeout after 119900 ms.
+[I 23:24:23.791 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 23:48:04.866 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[I 23:48:04.950 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 23:48:05.079 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[I 23:48:05.174 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 23:48:05.625 NotebookApp] Adapting to protocol v5.1 for kernel cc68a910-1d1b-4045-b57e-3e9d4300f13d
+[W 23:57:53.792 NotebookApp] WebSocket ping timeout after 119993 ms.
+[I 00:56:50.476 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 01:33:50.476 NotebookApp] WebSocket ping timeout after 119995 ms.
+[I 01:49:10.361 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 01:57:40.363 NotebookApp] WebSocket ping timeout after 119995 ms.
+[I 02:23:51.320 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 03:06:21.322 NotebookApp] WebSocket ping timeout after 119892 ms.
+[I 04:16:22.596 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 04:21:34.867 NotebookApp] WebSocket ping timeout after 118605 ms.
+[W 04:21:34.950 NotebookApp] WebSocket ping timeout after 118726 ms.
+[W 04:21:35.079 NotebookApp] WebSocket ping timeout after 118856 ms.
+[W 04:21:35.175 NotebookApp] WebSocket ping timeout after 118951 ms.
+[W 04:21:35.626 NotebookApp] WebSocket ping timeout after 119128 ms.
+[I 04:29:39.691 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 04:29:40.062 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[I 04:29:40.824 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 04:29:41.187 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[I 04:29:41.658 NotebookApp] Adapting to protocol v5.1 for kernel cc68a910-1d1b-4045-b57e-3e9d4300f13d
+[W 05:19:52.597 NotebookApp] WebSocket ping timeout after 119935 ms.
+[I 05:44:33.840 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 05:56:33.842 NotebookApp] WebSocket ping timeout after 119958 ms.
+[I 06:46:31.349 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 06:51:31.351 NotebookApp] WebSocket ping timeout after 119967 ms.
+[W 08:59:09.692 NotebookApp] WebSocket ping timeout after 119243 ms.
+[W 08:59:10.063 NotebookApp] WebSocket ping timeout after 119613 ms.
+[W 08:59:10.825 NotebookApp] WebSocket ping timeout after 119986 ms.
+[W 08:59:11.188 NotebookApp] WebSocket ping timeout after 119819 ms.
+[W 08:59:11.660 NotebookApp] WebSocket ping timeout after 119688 ms.
+[I 10:07:47.426 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[I 10:07:52.907 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[I 10:07:54.182 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 10:07:56.840 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 10:07:58.132 NotebookApp] Adapting to protocol v5.1 for kernel cc68a910-1d1b-4045-b57e-3e9d4300f13d
+[I 21:53:51.765 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 22:13:21.766 NotebookApp] WebSocket ping timeout after 119995 ms.
+[I 22:44:37.688 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 23:39:37.689 NotebookApp] WebSocket ping timeout after 119922 ms.
+[I 23:51:30.410 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 00:17:30.411 NotebookApp] WebSocket ping timeout after 119995 ms.
+[I 01:14:32.321 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 02:19:32.322 NotebookApp] WebSocket ping timeout after 119953 ms.
+[I 02:49:11.035 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 03:21:28.545 NotebookApp] Adapting to protocol v5.1 for kernel cc68a910-1d1b-4045-b57e-3e9d4300f13d
+[W 04:39:11.036 NotebookApp] WebSocket ping timeout after 119921 ms.
+[I 05:01:22.849 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 05:56:22.849 NotebookApp] WebSocket ping timeout after 119996 ms.
+[I 06:18:21.096 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 06:58:51.097 NotebookApp] WebSocket ping timeout after 119980 ms.
+[I 07:12:36.108 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 07:30:06.109 NotebookApp] WebSocket ping timeout after 119958 ms.
+[I 10:17:12.865 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/03-face_decomposition.png (122.35.243.225) 9.68ms
+[I 10:17:18.939 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/api_table.png (122.35.243.225) 1.53ms
+[I 10:17:19.884 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 10:19:37.097 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 10:35:15.575 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 10:39:05.974 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 10:42:59.182 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 10:46:53.075 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 10:51:08.797 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 10:55:14.274 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 11:03:11.010 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 21:56:26.083 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 22:47:26.085 NotebookApp] WebSocket ping timeout after 119941 ms.
+[I 23:10:32.776 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 00:05:32.777 NotebookApp] WebSocket ping timeout after 119892 ms.
+[I 01:14:21.592 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 01:58:42.418 NotebookApp] SSL Error on 33 ('223.105.4.250', 65388): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 02:19:21.593 NotebookApp] WebSocket ping timeout after 119995 ms.
+[I 02:45:05.728 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 03:37:05.729 NotebookApp] WebSocket ping timeout after 119950 ms.
+[I 03:59:01.222 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 04:42:31.223 NotebookApp] WebSocket ping timeout after 119963 ms.
+[I 04:44:05.971 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 05:32:35.972 NotebookApp] WebSocket ping timeout after 119972 ms.
+[I 05:54:59.318 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 06:49:59.319 NotebookApp] WebSocket ping timeout after 119987 ms.
+[W 02:25:47.960 NotebookApp] SSL Error on 10 ('171.15.148.66', 23554): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 05:31:24.217 NotebookApp] SSL Error on 10 ('220.181.159.77', 58160): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 05:31:24.359 NotebookApp] SSL Error on 10 ('220.181.159.77', 58254): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 21:31:33.162 NotebookApp] SSL Error on 10 ('223.105.4.250', 34611): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 05:35:03.822 NotebookApp] SSL Error on 10 ('146.0.72.194', 1615): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 08:30:26.057 NotebookApp] SSL Error on 10 ('146.0.72.194', 966): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[I 08:40:18.727 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/03-face_decomposition.png (122.35.243.225) 9.10ms
+[I 08:40:18.905 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/api_table.png (122.35.243.225) 1.57ms
+[I 08:40:19.445 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 08:42:43.517 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 08:52:49.950 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 09:00:42.508 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 09:08:59.928 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 09:19:43.172 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 09:27:04.780 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/overfitting_underfitting_cartoon.png (122.35.243.225) 11.26ms
+[I 09:27:11.429 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/classifier_comparison.png (122.35.243.225) 1.56ms
+[I 09:27:12.518 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[I 09:29:20.603 NotebookApp] Saving file at /introduction_to_ml_with_python/02-supervised-learning.ipynb
+[I 09:32:53.570 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 09:45:33.385 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 09:58:24.464 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 10:10:53.726 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[W 10:35:15.551 NotebookApp] SSL Error on 10 ('72.11.140.74', 55928): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 10:35:15.822 NotebookApp] SSL Error on 10 ('72.11.140.74', 56374): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[I 10:35:37.792 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 10:48:45.751 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 10:49:14.179 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[W 10:49:42.523 NotebookApp] WebSocket ping timeout after 108223 ms.
+[W 10:49:49.447 NotebookApp] WebSocket ping timeout after 115116 ms.
+[I 11:05:31.287 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/03-face_decomposition.png (122.35.243.225) 1.58ms
+[I 11:05:31.334 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/api_table.png (122.35.243.225) 1.53ms
+[I 11:05:31.903 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 11:08:01.471 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 21:45:25.220 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 18:25:33.875 NotebookApp] SSL Error on 10 ('223.105.4.250', 6656): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[I 01:03:59.522 NotebookApp] 302 GET /tree (211.56.96.55) 32.34ms
+[I 01:04:01.683 NotebookApp] 302 POST /login?next=%2Ftree (211.56.96.55) 1.36ms
+[I 01:04:23.655 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/03-face_decomposition.png (211.56.96.55) 5.84ms
+[I 01:04:23.738 NotebookApp] 302 GET /notebooks/introduction_to_ml_with_python/images/api_table.png (211.56.96.55) 1.55ms
+[I 01:04:24.103 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 01:06:29.251 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 01:18:30.919 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 01:20:30.135 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[I 01:23:26.801 NotebookApp] Saving file at /introduction_to_ml_with_python/03-unsupervised-learning.ipynb
+[W 01:49:54.110 NotebookApp] WebSocket ping timeout after 119657 ms.
+[I 02:06:00.824 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 03:03:30.826 NotebookApp] WebSocket ping timeout after 119880 ms.
+[I 03:04:28.187 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 04:14:58.188 NotebookApp] WebSocket ping timeout after 119892 ms.
+[I 04:42:20.486 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 05:54:50.488 NotebookApp] WebSocket ping timeout after 119905 ms.
+[I 06:07:29.103 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 07:24:29.105 NotebookApp] WebSocket ping timeout after 119892 ms.
+[I 00:29:02.679 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 01:15:32.680 NotebookApp] WebSocket ping timeout after 119995 ms.
+[I 01:29:26.747 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 02:28:26.748 NotebookApp] WebSocket ping timeout after 119914 ms.
+[I 02:41:16.303 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 04:07:16.304 NotebookApp] WebSocket ping timeout after 119995 ms.
+[I 04:41:30.493 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[W 06:05:30.494 NotebookApp] WebSocket ping timeout after 119974 ms.
+[W 13:21:02.623 NotebookApp] SSL Error on 10 ('39.112.225.30', 31188): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 13:35:57.126 NotebookApp] SSL Error on 10 ('39.112.225.30', 63425): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 13:50:48.769 NotebookApp] SSL Error on 10 ('39.112.225.30', 31023): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 03:31:12.391 NotebookApp] SSL Error on 10 ('173.255.200.164', 38818): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 03:31:12.843 NotebookApp] SSL Error on 10 ('173.255.200.164', 38870): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 03:31:13.301 NotebookApp] SSL Error on 10 ('173.255.200.164', 39112): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 03:31:13.753 NotebookApp] SSL Error on 10 ('173.255.200.164', 39284): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 03:31:14.196 NotebookApp] SSL Error on 10 ('173.255.200.164', 39400): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 03:31:14.606 NotebookApp] SSL Error on 10 ('173.255.200.164', 39474): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 03:31:15.013 NotebookApp] SSL Error on 10 ('173.255.200.164', 39638): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 03:31:17.154 NotebookApp] SSL Error on 10 ('173.255.200.164', 40178): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 03:31:17.575 NotebookApp] SSL Error on 10 ('173.255.200.164', 40230): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 03:31:17.997 NotebookApp] SSL Error on 10 ('173.255.200.164', 40306): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 03:31:18.425 NotebookApp] SSL Error on 10 ('173.255.200.164', 40422): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 03:31:18.862 NotebookApp] SSL Error on 10 ('173.255.200.164', 40466): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[W 03:31:19.314 NotebookApp] SSL Error on 10 ('173.255.200.164', 40542): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[I 03:31:22.403 NotebookApp] 302 GET / (173.255.200.164) 0.79ms
+[W 20:56:31.905 NotebookApp] WebSocket ping timeout after 119791 ms.
+[W 20:56:44.181 NotebookApp] WebSocket ping timeout after 119869 ms.
+[W 21:43:23.630 NotebookApp] SSL Error on 10 ('223.105.4.249', 8154): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:720)
+[I 22:21:52.837 NotebookApp] Adapting to protocol v5.1 for kernel 106a9eb2-1866-425b-9585-660ef877ae8a
+[I 22:21:53.445 NotebookApp] Adapting to protocol v5.1 for kernel c2289900-0bac-44fa-9c04-139db52e57f1
+[W 23:49:52.838 NotebookApp] WebSocket ping timeout after 119697 ms.
+[W 23:49:53.446 NotebookApp] WebSocket ping timeout after 119690 ms.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
